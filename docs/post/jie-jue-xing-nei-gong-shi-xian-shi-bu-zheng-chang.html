@@ -190,8 +190,7 @@ $$</p>
 <span class="pl-s1">output</span>, <span class="pl-s1">attention_weights</span> <span class="pl-c1">=</span> <span class="pl-en">multi_head_attn</span>(<span class="pl-s1">query</span>, <span class="pl-s1">key</span>, <span class="pl-s1">value</span>, <span class="pl-s1">mask</span><span class="pl-c1">=</span><span class="pl-s1">mask</span>)
 
 <span class="pl-en">print</span>(<span class="pl-s">"Mask output shape:"</span>, <span class="pl-s1">output</span>.<span class="pl-s1">shape</span>)  <span class="pl-c"># Expected shape: (batch_size, seq_length, num_hiddens)</span>
-<span class="pl-en">print</span>(<span class="pl-s">"Mask attention weights shape:"</span>, <span class="pl-s1">attention_weights</span>.<span class="pl-s1">shape</span>)  <span class="pl-c"># Expected shape: (batch_size, num_heads, seq_length, seq_length)</span></pre></div>
-</div>
+<span class="pl-en">print</span>(<span class="pl-s">"Mask attention weights shape:"</span>, <span class="pl-s1">attention_weights</span>.<span class="pl-s1">shape</span>)  <span class="pl-c"># Expected shape: (batch_size, num_heads, seq_length, seq_length)</span></pre></div></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
@@ -287,5 +286,5 @@ function iFrameLoading(){
 </script>
 
 
-<script>let meekdai=0</script><script>MathJax = {tex: {inlineMath: [['$', '$'], ['\(', '\)']]}};</script><script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>let meekdai=0</script><script>MathJax = {tex: {inlineMath: [["$", "$"], ["\(", "\)"]]}};</script><script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </html>
