@@ -7,7 +7,9 @@
 
 本科的时候，经常在夜深人静的时候，感觉到寂寞焦虑，于是我就总是坐在床上望着窗，看着风将半掩的窗帘吹的翩翩，耳机里面放着《Bibo no Aozora》。
 ```
-Gmeek-html<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/2wWBJrfkvZRrYD9ek8wU1W?utm_source=generator' width='100%' height='152' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe>
+Gmeek-html
+<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/2wWBJrfkvZRrYD9ek8wU1W?utm_source=generator' width='100%' height='152' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'>
+</iframe>
 ```
 
 不知不觉，5 年过去，他走了。感谢他用纯粹而深刻的音乐，在漫漫长夜抚平一个迷茫游子的心田，念及于此，不免伤逝。
