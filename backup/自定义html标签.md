@@ -14,8 +14,8 @@ Gmeek-html
 
 不知不觉，5 年过去，他走了。感谢他用纯粹而深刻的音乐，在漫漫长夜抚平一个迷茫游子的心田，念及于此，不免伤逝。
 
-`Gmeek-html<iframe src="https://music.meekdai.com/" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>`
+`Gmeek-html<iframe src="https://music.meekdai.com/" width="100%" height="460px" frameborder="0" allowfullscreen="true"></iframe>`
 
-`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1604800941&bvid=BV1qm421M7Xs&cid=1557311907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"></iframe>`
+`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1604800941&bvid=BV1qm421M7Xs&cid=1557311907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
 
 <!-- ##{"timestamp":1680484361}## -->
