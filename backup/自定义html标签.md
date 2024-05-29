@@ -14,5 +14,9 @@ Gmeek-html
 
 不知不觉，5 年过去，他走了。感谢他用纯粹而深刻的音乐，在漫漫长夜抚平一个迷茫游子的心田，念及于此，不免伤逝。
 
+`Gmeek-html<iframe style='border-radius:12px' src='https://music.meekdai.com/></iframe>`
+
+
+
 
 <!-- ##{"timestamp":1680484361}## -->
