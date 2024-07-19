@@ -1,6 +1,6 @@
-
-
+1234
 我很少为一个人的离去难过。听闻这个消息的时候，我正沉迷于刷题带来的快感中。
+
 
 当我关上手机，起身接水的时候，我突然意识到，这个博客之前在底部会有一个音乐播放器，每次打开博客的时候，就会自动播放坂本龙一的《opus》。
 `Gmeek-html<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/0U3fV7K4WFfVRgLGEAKh3g?utm_source=generator' width='100%' height='152' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe>`
